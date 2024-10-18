@@ -1,0 +1,30 @@
+.user-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+  }
+  
+  input {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  span {
+    color: red;
+    font-size: 12px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #282c34;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3c4b63;
+  }
+  
